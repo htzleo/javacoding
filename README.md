@@ -1,5 +1,5 @@
 # javacoding
 Good Good study, day day up!
-FLAG!
+FL-AG, Unique!
 Java Daily code!
 
