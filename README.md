@@ -1,3 +1,5 @@
 # javacoding
-Goad Goad sTUDY, DAY DAY UP!
-Java Daily code
+Good Good study, day day up!
+FLAG!
+Java Daily code!
+
